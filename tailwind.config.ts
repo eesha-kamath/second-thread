@@ -61,7 +61,28 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				// Second Thread custom colors
+				forest: {
+					DEFAULT: '#2C5F2D',
+					light: '#4a7f4b'
+				},
+				rustic: {
+					DEFAULT: '#FF7F50',
+					light: '#FF9E7D'
+				},
+				beige: {
+					DEFAULT: '#F2E8CF',
+					dark: '#E5D9B6'
+				},
+				indigo: {
+					DEFAULT: '#4A5FC1',
+					light: '#6B7ED1'
 				}
+			},
+			fontFamily: {
+				poppins: ['Poppins', 'sans-serif'],
+				merriweather: ['Merriweather', 'serif'],
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
