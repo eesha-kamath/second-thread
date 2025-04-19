@@ -1,3 +1,4 @@
+
 import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import { Menu, X, ShoppingBag } from "lucide-react";
@@ -47,9 +48,6 @@ const Navbar = () => {
           </Link>
           <Link to="/impact" className="font-poppins font-medium hover:text-forest transition-colors">
             Impact
-          </Link>
-          <Link to="/custom" className="font-poppins font-medium hover:text-forest transition-colors">
-            Custom Orders
           </Link>
           <Link to="/contact" className="font-poppins font-medium hover:text-forest transition-colors">
             Contact
@@ -108,13 +106,6 @@ const Navbar = () => {
               onClick={() => setIsMenuOpen(false)}
             >
               Impact
-            </Link>
-            <Link 
-              to="/custom" 
-              className="font-poppins font-medium hover:text-forest transition-colors py-2"
-              onClick={() => setIsMenuOpen(false)}
-            >
-              Custom Orders
             </Link>
             <Link 
               to="/contact" 
