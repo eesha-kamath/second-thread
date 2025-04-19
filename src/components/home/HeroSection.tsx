@@ -44,7 +44,7 @@ const HeroSection = () => {
           </div>
           <div className="relative h-[500px] w-full rounded-2xl overflow-hidden shadow-xl scale-in">
             <img 
-              src="https://images.unsplash.com/photo-1624456735729-03594a40c5fb?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
+              src="/15 Best Eco-Friendly Clothing Brands For 2025.jpeg" 
               alt="Upcycled fabric products including tote bags and accessories"
               className="w-full h-full object-cover"
             />

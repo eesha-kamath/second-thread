@@ -8,30 +8,30 @@ const products = [
   {
     id: 1,
     name: "Upcycled Tote Bag",
-    image: "https://images.unsplash.com/photo-1604176424472-37dbe65d8ff7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "/tote.jpeg",
     category: "Bags",
-    price: "₹1,299"
+    price: "₹599"
   },
   {
     id: 2,
     name: "Fabric Jewelry Set",
-    image: "https://images.unsplash.com/photo-1623834574347-955071a8d3b6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "/set.jpeg",
     category: "Jewelry",
-    price: "₹899"
+    price: "₹199"
   },
   {
     id: 3,
     name: "Handmade Stuffed Toy",
-    image: "https://images.unsplash.com/photo-1545315003-c5ad6201d82f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "toy.jpeg",
     category: "Toys",
-    price: "₹749"
+    price: "₹399"
   },
   {
     id: 4,
     name: "Upcycled Rug",
-    image: "https://images.unsplash.com/photo-1617806501553-77a54c830142?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "/rug.jpeg",
     category: "Home Decor",
-    price: "₹2,499"
+    price: "₹299"
   },
   {
     id: 5,

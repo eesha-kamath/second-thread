@@ -14,49 +14,49 @@ const products = [
   {
     id: 1,
     name: "Upcycled Tote Bag",
-    image: "https://images.unsplash.com/photo-1604176424472-37dbe65d8ff7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "/tote.jpeg",
     category: "Tote Bags",
-    price: "₹1,299",
+    price: "₹599",
     story: "Created from vintage denim jeans"
   },
   {
     id: 2,
     name: "Fabric Jewelry Set",
-    image: "https://images.unsplash.com/photo-1623834574347-955071a8d3b6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "/set.jpeg",
     category: "Jewelry",
-    price: "₹899",
+    price: "₹199",
     story: "Handcrafted from silk saree scraps"
   },
   {
     id: 3,
     name: "Handmade Stuffed Toy",
-    image: "https://images.unsplash.com/photo-1545315003-c5ad6201d82f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "/toy.jpeg",
     category: "Stuffed Toys",
-    price: "₹749",
+    price: "₹299",
     story: "Made with love from cotton t-shirts"
   },
   {
     id: 4,
     name: "Upcycled Rug",
-    image: "https://images.unsplash.com/photo-1617806501553-77a54c830142?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "/rug.jpeg",
     category: "Home Decor",
-    price: "₹2,499",
+    price: "₹299",
     story: "Woven from old clothing"
   },
   {
     id: 5,
     name: "Patchwork Cushion Cover",
-    image: "https://images.unsplash.com/photo-1612280413447-d55e479d5bd9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "/pillow.jpeg",
     category: "Home Decor",
-    price: "₹599",
+    price: "₹199",
     story: "A collage of memories in fabric"
   },
   {
     id: 6,
     name: "Fabric Wall Hanging",
-    image: "https://images.unsplash.com/photo-1601379329542-31c59817ea78?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "/wall.jpeg",
     category: "Home Decor",
-    price: "₹1,899",
+    price: "₹399",
     story: "Traditional art meets sustainability"
   }
 ];

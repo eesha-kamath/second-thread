@@ -27,25 +27,25 @@ const CallToAction = () => {
           <div className="grid grid-cols-2 gap-4">
             <div className="space-y-4">
               <img 
-                src="https://images.unsplash.com/photo-1551799517-eb8f03cb5e6a?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" 
-                alt="Before: Old denim jeans" 
+                src="/31 Creative Art Projects Using Recycled Materials_ Eco-Friendly Creations for Artists.jpeg" 
+                alt="Patch work bag" 
                 className="rounded-lg h-40 w-full object-cover shadow-md"
               />
               <img 
-                src="https://images.unsplash.com/photo-1618246512392-706cb6009087?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" 
-                alt="Before: Worn out tshirts" 
+                src="/Red Mogra gajra.jpeg" 
+                alt="" 
                 className="rounded-lg h-60 w-full object-cover shadow-md"
               />
             </div>
             <div className="space-y-4 pt-8">
               <img 
-                src="https://images.unsplash.com/photo-1541888946425-d81bb19240f5?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" 
+                src="/Amazon_com_ Womens Leather Handbags - Women's Handbags, Purses & Wallets _ Women's Fashion_ Clothing, Shoes & Jewelry.jpeg" 
                 alt="After: Handcrafted denim bag" 
                 className="rounded-lg h-60 w-full object-cover shadow-md"
               />
               <img 
-                src="https://images.unsplash.com/photo-1617721926586-4307884faa96?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80" 
-                alt="After: Upcycled fabric toy" 
+                src="/Psychic Outlaw Sling Bag.jpeg" 
+                alt="" 
                 className="rounded-lg h-40 w-full object-cover shadow-md"
               />
             </div>

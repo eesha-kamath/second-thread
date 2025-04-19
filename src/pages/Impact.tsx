@@ -183,24 +183,24 @@ const Impact = () => {
               <div className="grid grid-cols-2 gap-4">
                 <div className="space-y-4">
                   <img 
-                    src="https://images.unsplash.com/photo-1586023492125-27b2c045efd7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
+                    src="/Фото 915153667454 из альбома ☼ ИДЕИ ДЛЯ МАСТЕРИЦ_ Смотрите в группе ИЗ ТОГО, ЧТО ПОД РУКАМИ - рукоделие, декор, дизайн в ОК.jpeg" 
                     alt="Artisans at work" 
                     className="rounded-lg h-48 w-full object-cover shadow-md"
                   />
                   <img 
-                    src="https://images.unsplash.com/photo-1558920558-fb0345e52561?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
+                    src="/zero waste fashion brands.jpeg" 
                     alt="Community workshop" 
                     className="rounded-lg h-64 w-full object-cover shadow-md"
                   />
                 </div>
                 <div className="space-y-4 pt-6">
                   <img 
-                    src="https://images.unsplash.com/photo-1604671801908-6f0c6a092c05?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
+                    src="/Neutral Patchwork Dress.jpeg" 
                     alt="Skills development workshop" 
                     className="rounded-lg h-64 w-full object-cover shadow-md"
                   />
                   <img 
-                    src="https://images.unsplash.com/photo-1573497491208-6b1acb260507?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
+                    src="/Embroidered Scrunchie, Embroidered Hair Bow, Linen Hair Bow, Hair Accessories, Hand Embroidered Barrette_ Bow Hair Tie, Christmas Gifts - Etsy.jpeg" 
                     alt="Women artisans" 
                     className="rounded-lg h-48 w-full object-cover shadow-md"
                   />
