@@ -1,4 +1,3 @@
-
 import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import { Menu, X, ShoppingBag } from "lucide-react";
@@ -36,7 +35,6 @@ const Navbar = () => {
           </h1>
         </Link>
 
-        {/* Desktop Navigation */}
         <nav className="hidden md:flex items-center space-x-8">
           <Link to="/" className="font-poppins font-medium hover:text-forest transition-colors">
             Home
@@ -53,9 +51,6 @@ const Navbar = () => {
           <Link to="/custom" className="font-poppins font-medium hover:text-forest transition-colors">
             Custom Orders
           </Link>
-          <Link to="/blog" className="font-poppins font-medium hover:text-forest transition-colors">
-            Blog
-          </Link>
           <Link to="/contact" className="font-poppins font-medium hover:text-forest transition-colors">
             Contact
           </Link>
@@ -69,7 +64,6 @@ const Navbar = () => {
             </span>
           </Link>
           
-          {/* Mobile menu button */}
           <button 
             className="md:hidden"
             onClick={() => setIsMenuOpen(!isMenuOpen)}
@@ -84,7 +78,6 @@ const Navbar = () => {
         </div>
       </div>
 
-      {/* Mobile Navigation */}
       {isMenuOpen && (
         <div className="md:hidden absolute top-full left-0 w-full bg-background/95 backdrop-blur-sm shadow-md py-4">
           <nav className="container mx-auto px-4 flex flex-col space-y-4">
@@ -122,13 +115,6 @@ const Navbar = () => {
               onClick={() => setIsMenuOpen(false)}
             >
               Custom Orders
-            </Link>
-            <Link 
-              to="/blog" 
-              className="font-poppins font-medium hover:text-forest transition-colors py-2"
-              onClick={() => setIsMenuOpen(false)}
-            >
-              Blog
             </Link>
             <Link 
               to="/contact" 
